@@ -19,3 +19,5 @@ resource "aws_ecr_repository" "my_ecr_repo" {
     scan_on_push = true
   }
 }
+
+#
